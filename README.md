@@ -21,15 +21,15 @@ $ pip install -r requirements.txt
 ## Usage
 Using Webcam
 ```bash
-$ program main.py
+$ python program.py
 ```
 
 Using Video
 ```bash
-$ program main.py --video input/input.mp4
+$ python program.py --video input/input.mp4
 ```
 
 Using Image
 ```bash
-$ program main.py --gambar input/gambar.jpg
+$ python program.py --gambar input/gambar.jpg
 ```
