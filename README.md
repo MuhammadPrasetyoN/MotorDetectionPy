@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Motorcycle Detection using OpenCV + YOLOv8
 This project is a motorcycle detection, tracking and counter using YOLOv5 and Deep SORT. The model is trained using [this dataset](https://universe.roboflow.com/magang-bascorro-zbh9t/mobil-motor-and-plat/dataset/1).
 
