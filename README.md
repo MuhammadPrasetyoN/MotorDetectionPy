@@ -14,17 +14,22 @@ This project is a motorcycle detection, tracking and counter using YOLOv5 and De
 ## Installation
 ```bash
 $ git clone
-$ cd motorcycle-detection
+$ cd MotorDetectionPy
 $ pip install -r requirements.txt
 ```
 
 ## Usage
 Using Webcam
 ```bash
-$ python main.py
+$ program main.py
 ```
 
 Using Video
 ```bash
-$ python main.py --video input/input.mp4
+$ program main.py --video input/input.mp4
+```
+
+Using Image
+```bash
+$ program main.py --gambar input/gambar.jpg
 ```
